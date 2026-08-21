@@ -1,0 +1,12 @@
+.cache*/
+cache/
+output/
+report/
+*.parquet
+*.csv
+*.pdf
+*.docx
+.env
+__pycache__/
+*.pyc
+.DS_Store
